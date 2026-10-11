@@ -1,0 +1,450 @@
+[
+  {
+    "id": 0,
+    "title": "Woodworking Class",
+    "frequency": 4,
+    "sentences": [
+      "Welcome to the wood shop.",
+      "This tool box contains everything you should need.",
+      "You will learn to use your saw in our classes.",
+      "Your screwdriver can be used with all of our carpentry machines.",
+      "All wood will need to be smooth, so use the sand paper provided.",
+      "Use only what is needed so that your supplies last all quarter.",
+      "Before you leave the class room, be sure to put all your tools back into the tool box."
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Gym / Fitness Center",
+    "frequency": 4,
+    "sentences": [
+      "Cardio machines and bikes are over here.",
+      "The weight room provides dumbbells and benches.",
+      "Our yoga studio offers classes for all fitness levels.",
+      "Locker rooms contain storage bins and changing facilities.",
+      "Enjoy our smoothie bar and sample nutritious drinks and snacks.",
+      "Personal trainers are available for individual guidance.",
+      "Before you leave, check the gym floor plan for specific areas and equipment."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Library",
+    "frequency": 4,
+    "sentences": [
+      "The computer lab has free Wi-Fi access.",
+      "The reading room is a quiet space for patrons.",
+      "The children's section has books and activities for kids.",
+      "The reference desk can provide assistance for research projects.",
+      "Study rooms can be reserved for group work and other meetings.",
+      "Library staff are available for help finding resources here or at other locations.",
+      "If you are looking for other specific locations and services, please use our guide."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Coffee Shop",
+    "frequency": 3,
+    "sentences": [
+      "We serve coffee and tea at the main counter.",
+      "Our pastries are all made fresh daily.",
+      "The menu board lists drinks that include a range of herbal teas.",
+      "Milk, cream and sugar are available at this station.",
+      "Dispose of trash and recyclables in the bins near the door.",
+      "Some tables in the seating area offer excellent views of campus.",
+      "Free wifi is available for campus visitors as well as students."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Art Gallery",
+    "frequency": 3,
+    "sentences": [
+      "Visitors should enter through the front.",
+      "Tickets can be purchased at reception.",
+      "You can leave your belongings in the coat check room free of charge.",
+      "Each piece in the modern art hall is labeled with details.",
+      "Our photography exhibit features work by student artists.",
+      "Restrooms are located in the corner of the gallery near the exit.",
+      "Our cafe offers coffee, tea and a variety of sandwiches and treats."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Birdwatching",
+    "frequency": 3,
+    "sentences": [
+      "Look towards treetops where you can find nests.",
+      "Note details to help identify birds.",
+      "Keep a record of each sighting to share later with the group.",
+      "Use proper footwear to keep from slipping while exploring outdoors.",
+      "Keep your head covered to protect yourself from sun on the walk.",
+      "When getting ready for a day out, be sure to pack essentials to be prepared.",
+      "If you spot a bird nearby, avoid sudden movements so it does not fly away."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Gardening / Garden Center",
+    "frequency": 3,
+    "sentences": [
+      "Water the trees daily to help them grow.",
+      "Add nutrient to the flower bed dirt.",
+      "Manage the temperature and humidity inside the green house.",
+      "Do not use chemicals near the pond to protect the creatures there.",
+      "Recycle waste in the compost pile to create rich soil.",
+      "After you finish gardening, put the tools in the shed so others can use them.",
+      "When guests arrive, show them to the visitor center to learn about the garden."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Making a Smoothie",
+    "frequency": 3,
+    "sentences": [
+      "Peel and slice a banana for sweetness.",
+      "Add berries for color and vitamins.",
+      "You can add flavored yogurt if you want additional flavor.",
+      "Slowly add milk until you achieve the desired consistency.",
+      "Blend until no chunks remain, and the ingredients are mixed.",
+      "Optional, add several pieces of ice if you prefer a colder drink.",
+      "Once everything looks good, slowly pour the smoothie into a chilled glass and serve."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Campus Tour",
+    "frequency": 2,
+    "sentences": [
+      "The tour begins at the main entrance.",
+      "Our first stop is the campus library.",
+      "Next, we will visit the cafeteria for a brief lunch.",
+      "This lecture hall is used for many physical science classes.",
+      "This dormitory complex is where most first-year students live.",
+      "The union building has many events for everyone on weekday evenings.",
+      "If you have any questions after the tour, visit the information booth."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Clothing Store",
+    "frequency": 2,
+    "sentences": [
+      "The women's clothing section is this way.",
+      "Our men's corner has shirts, trousers, and jackets.",
+      "Our accessories are on display near the entrance.",
+      "Fitting rooms are available here for trying on clothes.",
+      "Manager: The checkout for payment is by the exit when you're ready.",
+      "Ask the store associates if you need help locating specific items.",
+      "If you get lost, check the store map for the layout and location of departments."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Making a Salad",
+    "frequency": 2,
+    "sentences": [
+      "Begin by washing the vegetables.",
+      "Carefully chop the salad ingredients.",
+      "Collect the chopped vegetables and place them together.",
+      "Slowly add the dressing so the salad does not get soggy.",
+      "Toss everything together thoroughly so the flavors are mixed.",
+      "Put any leftovers in a food container and place in the fridge for later.",
+      "When you have finished, be sure to clean up so the kitchen stays neat and clean."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Science Project Presentation",
+    "frequency": 2,
+    "sentences": [
+      "Start by setting up the projector screen.",
+      "Use the whiteboard to highlight key points.",
+      "Arrange your project materials neatly on the tables.",
+      "Check all the equipment to ensure it works properly.",
+      "Make sure your computer is set up with your presentation.",
+      "It's a good idea to practice delivering your speech in front of some friends.",
+      "Take time to review your notes thoroughly so you'll feel confident and prepared."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Baking Cookies",
+    "frequency": 2,
+    "sentences": [
+      "Begin by mixing the butter and sugar.",
+      "Spread the dough so the cookies bake evenly.",
+      "Preheat the oven to the appropriate temperature.",
+      "Evenly space the cookie shapes onto the baking sheet.",
+      "Insert the tray and bake until the cookie edges are golden.",
+      "After the baking time is complete, cool the cookies on the rack",
+      "Pour yourself a glass of milk, and enjoy cookies fresh out of the"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "City Tour",
+    "frequency": 2,
+    "sentences": [
+      "This castle is famous for its towers.",
+      "The statue celebrates important events.",
+      "Visit the market to buy local goods and fresh produce.",
+      "The park is perfect for relaxing and outdoor activities.",
+      "See art displays and historical relics at the museum.",
+      "Guided city tours can provide detailed information about each landmark.",
+      "We need to check out the city map for directions and transportation options."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Document Storage",
+    "frequency": 2,
+    "sentences": [
+      "Store documents to prevent damage.",
+      "Temperature controls help protect papers.",
+      "Use the catalog system to organize records expertly.",
+      "Carefully use restoration tools to repair damaged items.",
+      "We provide a quiet reading area for researchers.",
+      "Security cameras are used to monitor sensitive materials.",
+      "If long term storage is needed, use the special storage boxes over here."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Flower Arranging",
+    "frequency": 2,
+    "sentences": [
+      "Cut stems at an angle using shears.",
+      "Place pebbles in the bottom for support.",
+      "Begin by placing the taller flowers in the center.",
+      "Fill gaps with smaller flowers to maintain the visual balance.",
+      "Add some greenery to enhance the overall fullness.",
+      "You need to change the water regularly to keep everything looking fresh.",
+      "Once you are happy with your arrangement, decorate it with a pretty ribbon."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Make a Clay Bowl",
+    "frequency": 2,
+    "sentences": [
+      "First wet your hands to keep the clay moist.",
+      "You will be using the center of the wheel.",
+      "Use your thumbs to gently open the clay in the middle.",
+      "Smooth the surface every few minutes with a damp sponge.",
+      "Remove any excess clay to give the bowl a clean shape.",
+      "Once everything looks good, let the finished piece dry on a rack for a full day.",
+      "Remember that practice is key to mastering pottery, so keep at it."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Making Bread",
+    "frequency": 2,
+    "sentences": [
+      "Measure carefully before starting to mix.",
+      "Add yeast to a small amount of warm water.",
+      "Stir the wet and dry ingredients into a soft dough.",
+      "Press and fold repeatedly until the texture feels elastic.",
+      "Let the dough rest in a warm place until it doubles in size.",
+      "After the loaf rises, bake until the top is browned and the center is firm.",
+      "When the bread is done place it on a raised stand, so airflow beneath can cool it down."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Park / Hiking Facilities",
+    "frequency": 2,
+    "sentences": [
+      "Our hiking trails offer scenic routes.",
+      "Make a stop at the Visitor Center.",
+      "Many outdoor campsites are available for overnight stay.",
+      "Picnic areas are great for family gatherings.",
+      "Wildlife viewing spots are ideal for observing animals.",
+      "Guided tours and educational programs are available by request.",
+      "As always, be sure to take the map with you on your nature walks and adventures."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Register for Classes",
+    "frequency": 2,
+    "sentences": [
+      "Enter your name and student ID number.",
+      "Browse the course catalog to choose your classes.",
+      "You can use the schedule planner tool to avoid time conflicts.",
+      "If a class is already full, a pop-up message will appear.",
+      "Contact the instructor to see if more seats can be added.",
+      "You can still add or drop classes up until the second week of",
+      "For your records, print out a list of your classes or email a copy"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Travel Agency",
+    "frequency": 2,
+    "sentences": [
+      "Welcome to the travel agency.",
+      "We offer travel packages for many destinations.",
+      "You can ask about flights, hotels, and tour plans.",
+      "Our staff can help you choose the best option.",
+      "Please provide your travel dates when booking a trip.",
+      "Some packages include transportation and guided tours.",
+      "For more details, speak with an agent at the desk."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Botanical Garden",
+    "frequency": 1,
+    "sentences": [
+      "You can buy tickets at the entrance.",
+      "The rose garden is beautiful this season.",
+      "The pond is a popular spot for sitting and relaxing.",
+      "Visit the greenhouse for a variety of exotic plants.",
+      "Check the bulletin board for information about guided tours.",
+      "The gift shop offers souvenirs and gardening books at reasonable prices.",
+      "Enjoy your lunch at our cafe, which has outdoor seating overlooking the grounds."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Computer Lab",
+    "frequency": 1,
+    "sentences": [
+      "Use your e-mail address to log in.",
+      "You can print all your documents here.",
+      "You can also access the scanners in this corner free of charge.",
+      "Visit the help desk to solve any technical problems.",
+      "Check to make sure the Wi-Fi connection is stable and secure.",
+      "Remember to save your work frequently to avoid data loss or corruption.",
+      "If you are unsure when the lab is open, you can check the weekly schedule here."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Recycling",
+    "frequency": 1,
+    "sentences": [
+      "Put all paper items into the blue bin.",
+      "Glass bottles belong in the green container.",
+      "The yellow receptacle is only for plastic bottles.",
+      "Non-recyclable materials must go into the trash.",
+      "Compost leftover food to help reduce the waste in landfills.",
+      "Always read the posted signs to make sure you sort all items correctly.",
+      "You can download our app for updates about policy or procedure changes."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Art Exhibit",
+    "frequency": 1,
+    "sentences": [
+      "Artwork can be seen in the east wing.",
+      "Pieces are placed along the main corridor.",
+      "Interactive displays are set up near the front entrance.",
+      "Pick up printed materials at the Information desk.",
+      "Incredible photos tell unique stories about campus life.",
+      "If you need to relax for a moment, there are places to sit and take a break.",
+      "Tours are given daily every hour, but you need to sign up one day prior."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Bike Tire Repair",
+    "frequency": 1,
+    "sentences": [
+      "First, select the right tool to remove the wheel.",
+      "Next, deflate the tire completely.",
+      "Carefully locate the puncture hole and mark it with a pin.",
+      "Select a patch from the repair kit and apply it firmly.",
+      "Use the pump to inflate the tire to the correct pressure.",
+      "Check for additional leaks by submerging the tube in a bucket of water.",
+      "If there are no new problems, reattach the wheel back to the bicycle."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Birdhouse",
+    "frequency": 1,
+    "sentences": [
+      "Measure each piece carefully before you cut.",
+      "Saw slowly to keep the line smooth and straight.",
+      "Lightly sand the edges until they all feel smooth and clean.",
+      "Make a round hole that the bird will use as the entrance to the house.",
+      "Glue each side of the house together and give it some time to dry.",
+      "To attach the roof, hammer the nails in gently so the wood doesn't split or crack.",
+      "To protect the birdhouse from weather, seal it well so it will last for years."
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Making Latte",
+    "frequency": 1,
+    "sentences": [
+      "Make a shot of espresso with the machine.",
+      "Steam the milk until it's hot and bubbling.",
+      "Pour the coffee into the appropriately sized cup.",
+      "Slowly add the milk until the cup is about halfway full.",
+      "Use a spoon to create latte art if you know how to do it.",
+      "Ask the customer if they want sugar or honey before serving.",
+      "Place a small chocolate on the saucer next to the cup."
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Rock Climbing",
+    "frequency": 1,
+    "sentences": [
+      "You can rent climbing shoes at the front desk.",
+      "Always wear a helmet when in the gym.",
+      "The shorter walls can be used without ropes or a harness.",
+      "Just follow the colored marks to stay on the same climbing path.",
+      "Also make sure to check out our special strength training zone.",
+      "Use the hang and chin-up bars to increase the power of your upper body.",
+      "If you need help, trained instructors are always nearby to guide and advise you."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Sewing a Button",
+    "frequency": 1,
+    "sentences": [
+      "First, thread needle and tie a knot.",
+      "Position button on fabric.",
+      "Push needle gently through fabric and button.",
+      "Sew tightly through each of holes between 3 and 5 times.",
+      "Tie a strong knot at back to firmly secure your work.",
+      "Cut any extra thread, then repeat same steps if there are other buttons.",
+      "If your fingers are sensitive, use a thimble for protection while sewing."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Wall Painting",
+    "frequency": 1,
+    "sentences": [
+      "Use a drop cloth on the floor to prevent stains.",
+      "Apply painter's tape to edges for clean lines.",
+      "Pour the paint directly into the tray for easy access.",
+      "Use a roller for even coverage on large areas.",
+      "Start painting at the top of the wall and work steadily downward.",
+      "You might need to use an extension ladder to reach very high spots and corners.",
+      "For the best results, remember to remove the tape before the paint fully dries."
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Yoga Studio",
+    "frequency": 1,
+    "sentences": [
+      "Find a good place to roll out your mat.",
+      "Keep some water handy to drink when needed.",
+      "Focus on slow breathing to stay relaxed through each movement.",
+      "Pay attention to the instructor's words to learn proper form.",
+      "A block can help you maintain your balance while holding poses.",
+      "During meditation, use a cushion to help relax and support your body.",
+      "If you have questions about the positions, speak with the teacher after class."
+    ]
+  }
+]
